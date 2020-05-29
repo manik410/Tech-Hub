@@ -31,4 +31,4 @@
 - Jokes-Api
     - [Api to access technical jokes](https://official-joke-api.appspot.com/random_joke)
 ### Home-Page
-![Home-Page](https://github.com/manik410/Assessment-project/blob/master/img/home.png)
+![Home-Page](https://github.com/manik410/Tech-Hub/blob/master/img/home.png)
